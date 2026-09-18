@@ -1,4 +1,9 @@
-# --skill
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner.svg" alt="--skill — WorkBuddy Skill 命名空间占位仓库" width="100%">
+  </picture>
+</p>
 
 > WorkBuddy Skill 占位仓库
 
